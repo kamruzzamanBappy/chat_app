@@ -66,6 +66,7 @@ res.json({success:false, message:error.message})
     }
 }
 
+
 //Controller to check if user is authenticated
 
 export const checkAuth = () =>{

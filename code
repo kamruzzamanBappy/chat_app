@@ -1,0 +1,3 @@
+login(currState==="Sign up" ? 'signup': 'login', {fullName,email,password,bio})
+
+//login function, we pass two argument state and data  {fullName,email,password,bio}
